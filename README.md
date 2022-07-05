@@ -32,7 +32,7 @@ Joy works as a Software Engineer for Decagon., where he works with a team of awe
 
 #### Currently worked at:
 
-- [Frontend Engineer @ Geniopay](https://geniopay.com/)
+- [Frontend Engineer @ Korapay](https://korapay.com/)
 
 
 #### Volunteer Experience
