@@ -2,11 +2,11 @@
 
 <h1 align="center">Hi there 👋, I'm Joy</h1>
 
-<p align="center"><b>More than three years of experience as a Full Stack Software developer (Front-end heavy) spanning e-commerce, event technology, CRM, and more. Involved in product architecture and development, testing, advocacy, and problem solving.
+<p align="center"><b>More than three years of experience as a Frontend  Engineer spanning e-commerce, event technology, CRM, and more. Involved in product architecture and development, testing, advocacy, and problem solving.
  
 <br/><br/>
  
-Joy works as a Software Engineer for Decagon., where he works with a team of awesome Engineers to effect updates on existing platforms and new client projects. </b></p>
+Joy works as a Frontend Engineer at Korapay., where she works with a team of awesome Engineers to effect updates on existing platforms </b></p>
 
 
 - 🤔 Find out about my job experiences https://www.linkedin.com/in/amadikwajoyn/
