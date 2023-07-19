@@ -6,7 +6,7 @@
  
 <br/><br/>
  
-Joy works as a Frontend Engineer at Korapay., where she works with a team of awesome Engineers to effect updates on existing platforms </b></p>
+Joy works as a Frontend Engineer at Kora, where she works with a team of awesome Engineers to effect updates on existing platforms </b></p>
 
 
 - 🤔 Find out about my job experiences https://www.linkedin.com/in/amadikwajoyn/
@@ -33,7 +33,7 @@ Joy works as a Frontend Engineer at Korapay., where she works with a team of awe
 
 #### Currently working at:
 
-- [Frontend Engineer @ Korapay](https://korapay.com/)
+- [Frontend Engineer @ Kora](https://korapay.com/)
 
 
 #### Volunteer Experience
