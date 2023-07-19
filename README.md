@@ -10,6 +10,7 @@ Joy works as a Frontend Engineer at Korapay., where she works with a team of awe
 
 
 - 🤔 Find out about my job experiences https://www.linkedin.com/in/amadikwajoyn/
+- 🤔 YouTube https://youtube.com/@TheTechbunch
 <!-- - 🥳 Take a peep at my portfolio  -->
 
 
