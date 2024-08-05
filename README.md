@@ -23,9 +23,9 @@ Joy works as a Frontend Engineer at Kora, where she works with a team of awesome
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/typescript-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/typescript-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/scss%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/python%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 #### Learning
